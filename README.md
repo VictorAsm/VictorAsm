@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Computer Science at University of Buenos Aires<br>🎯 Goals: Be a superhero<br>🎲 Fun fact: I love hotcakes</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Computer Science at University of Buenos Aires<br>🎯 Goals: Survive<br>🎲 Fun fact: I love hotcakes</p>
 
 ###
 
